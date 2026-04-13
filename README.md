@@ -91,12 +91,6 @@ Customer targeting strategy
 Conversion rate optimization
 
 Campaign cost reduction
-## Future Improvements
-Build machine learning model for prediction
-
-Create Power BI dashboard for real-time tracking
-
-Automate lead scoring system
 
 ## Author
 
